@@ -1,0 +1,35 @@
+                                Cruises 2014
+      DATE
+  Start     End   S#       Ships  Name          Cruise  ZONE    CTDs    XBTs    Totals
+03/02/2014, 03/02/2014, 001, 39, Teleost             ,127, 3L            ,   3,   0, 3, Station 27
+11/04/2014, 29/04/2014, 019, 39, Teleost             ,129, 3KLMNOPs      ,  96,  36, 132, Spring Oceanography
+04/04/2014, 15/04/2014, 012, 12, Alfred Needler      ,445, 3LPs          ,  67,   0, 67, Multispecies
+05/03/2014, 05/03/2014, 001, 36, Ann Harvey          ,005, 3L            ,   1,   0, 1, Station 27
+13/05/2014, 25/05/2014, 013, 39, Teleost             ,131, 3KL           ,  26,  25, 51, Capelin Survey
+17/04/2014, 18/04/2014, 002, 12, Alfred Needler      ,446, 3Ps           ,  12,   2, 14, Multispecies
+01/05/2014, 11/05/2014, 011, 39, Teleost             ,130, 3LOPs         ,  85,   1, 86, Multispecies
+29/05/2014, 11/06/2014, 014, 39, Teleost             ,139, 3LNO          ,  99,   3, 102, Multispecies
+12/06/2014, 23/06/2014, 012, 39, Teleost             ,140, 3LN           ,  91,   0, 91, Multispecies
+07/06/2014, 19/06/2014, 013, 12, Alfred Needler      ,447, 3L            ,  82,   2, 84, Multispecies
+16/06/2014, 22/06/2014, 007, 61, Vladykov            ,029, 3L            ,  16,   0, 16, Snow Crab Survey
+09/07/2014, 28/07/2014, 020, 39, Teleost             ,132, 2HJ3KLM       , 105,  64, 169, Summer Oceanography
+26/05/2014, 05/06/2014, 011, 61, Vladykov            ,028, 3Ps           ,  26,   0, 26, Snow Crab Survey
+02/07/2014, 05/07/2014, 004, 61, Vladykov            ,030, 3KL           ,   2,   0, 2, Cod Tagging
+26/07/2014, 02/08/2014, 008, 61, Vladykov            ,031, 3L            ,  16,   0, 16, Snow Crab
+04/08/2014, 12/08/2014, 009, 61, Vladykov            ,032, 3L            ,  16,   0, 16, Snow Crab
+29/05/2014, 29/05/2014, 001, 20, Hudson              ,007, 3L            ,   1,   0, 1, Stn27 (converted from ODF)
+08/09/2014, 08/09/2014, 001, 12, Needler             ,448, 3L            ,   1,   0, 1, Shellfish Survey (unsuccessful-stn27 only)
+16/07/2014, 24/09/2014, 071, 63, Kinguk              ,109, Arctic        , 321,   0, 321, Shrimp Survey
+14/08/2014, 20/08/2014, 007, 61, Vladykov            ,033, 3L            ,  18,   0, 18, Trinity Bay Ecosystem
+27/08/2014, 11/09/2014, 016, 61, Vladykov            ,034, 3K            ,  24,   0, 24, Snow Crab Trap Survey
+19/09/2014, 30/09/2014, 012, 61, Vladykov            ,035, 3L            ,  15,   0, 15, Trinity Bay Ecosystem
+30/09/2014, 05/10/2014, 006, 61, Vladykov            ,036, 3L            ,  13,   0, 13, Snow Crab
+21/10/2014, 27/10/2014, 007, 61, Vladykov            ,037, 3KL           ,   0,   4, 4, Cod Tagging
+31/10/2014, 31/10/2014, 001, 61, Vladykov            ,038, 3L            ,   1,   0, 1, South Coast Aquaculture
+04/10/2014, 13/10/2014, 010, 39, Teleost             ,134, 2H3L          ,  65,   2, 67, NL Fall Survey
+18/10/2014, 27/10/2014, 010, 39, Teleost             ,135, 2J            ,  48,   2, 50, NL Fall Survey
+30/10/2014, 10/11/2014, 012, 39, Teleost             ,136, 2J3K          ,  69,   0, 69, NL Fall Survey
+13/11/2014, 24/11/2014, 012, 39, Teleost             ,137, 2J3K          ,  76,   0, 76, NL Fall Survey
+16/11/2014, 07/12/2014, 022, 20, Hudson              ,114, 2J3KLMNO      ,  94,  43, 137, Fall AZMP
+26/11/2014, 08/12/2014, 013, 39, Teleost             ,138, 3KL           ,  89,   2, 91, NL Fall Survey
+11/12/2014, 21/12/2014, 011, 39, Teleost             ,141, 3L            ,  86,   2, 88, Fall Multispecies

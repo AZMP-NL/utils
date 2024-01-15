@@ -1,0 +1,89 @@
+CARD 1 HEADER
+
+
+name		field	definition
+-----------------------------------------------------
+ship		i2	same as card 1
+trip		i3	"    "   "   "
+stn		i3	"    "   "   "
+lat deg		i2	lat degs
+lat min		i3 	lat mins x10
+lon deg		i2	lon degs
+lon min		i3	lon mins x10
+year		i2
+month		i2
+day		i2
+hr		i2
+minutes		i2
+depth		i4	meters( no decimal)
+probe		a5	Sxxxxx is a seabird ctd XBTxx is an XBT
+trace		i3	usually same as stn
+format		a1	V vertical profile T for tow (5 used to be XBT)
+comment 	a12
+
+REST IS METEROLOGICAL
+
+(starting at field 54)
+cloud		i1
+wind dir	i2	in 10 degree steps (eg 270 is 27)
+wind speed 	i2 	bofort scale
+ww code		i2
+pressure	i3	press x10
+air dry Temp	i3	temp x10
+air wet temp	i3	temp x10
+waves period	i2
+waves	height	i2
+swell dir	i2
+swell period	i2
+swell hieght	i2
+
+POSITION 80
+card type 1	1
+
+
+CARD 4 HEADER
+
+
+STANDARDIZED ID CODES FOR DATA CHANNELS:
+
+channel name   id		channel name	id
+--------------------------------------------------
+scan number	#		pressure	P
+depth (m)	D		temperature	T
+conductivity	C		salinity	S
+sigma-t		M		density		R
+oxygen ml/L	O		florescence	F
+O2 saturation	Y		dyanamic hite	H
+% O2 saturation %		Spec Vol Anom	V
+Oxygen Current  A		Oxygen temp     t
+dummy channel	!		temp integral	4
+
+card 4 header format: (unused field may be used at later date)
+
+name		field	definition
+-----------------------------------------------------
+ship		i2	same as card 1
+trip		i3	"    "   "   "
+stn		i3	"    "   "   "
+year		i4	with century
+scan_cnt	i6	number of scan lines in file
+scan rate	i3	hertz*10  000 for unknown
+ascii/bin	a1	A for ascii B for binary data
+chan cnt	i2	number of data channels in file including dummies
+chan ids	20a	id codes as described above in same order as channels
+unused		21x
+sub interval	i3	subsample interval, 000 if irregular stream or unknown
+min depth	i4	integral min depth in file from pres or depth channel
+max depth	i4	integral max depth in file from pres or depth channel
+strata #	i3	ground fish specified strata number
+card 4 id	i1	4
+/****************************************************************************/
+
+
+
+The number of lines in the header is not fixed, the only rules are:
+card 1 header on line 2
+card 4 header on line 3
+data is immediately preceeded by the flag line
+-- DATA --
+

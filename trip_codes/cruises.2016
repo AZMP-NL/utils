@@ -1,0 +1,44 @@
+				Cruises 2016
+      DATE
+  Start	    End   S#	   Ships  Name		Cruise	ZONE	CTDs	XBTs	Totals
+21/01/2016, 21/01/2016, 001, 59, Pearkes             ,002, 3L            ,   2,   0, 2, Station 27
+11/02/2016, 11/02/2016, 001, 39, Teleost             ,168, 3L            ,   4,   0, 4, Station 27
+01/04/2016, 11/04/2016, 011, 39, Teleost             ,157, 3LPs          ,  71,   0, 71, Multispecies(001-065)+AZMP(201-207)
+12/04/2016, 25/04/2016, 014, 39, Teleost             ,158, 3Ps           ,  78,   0, 78, Multispecies
+15/04/2016, 15/04/2016, 001, 61, Vladykov            ,053, 3L            ,   2,   1, 3, Station 27
+26/04/2016, 26/04/2016, 001, 61, Vladykov            ,054, 3L            ,   1,   0, 1, Station 27 
+28/04/2016, 10/05/2016, 013, 39, Teleost             ,169, 3LNOPs        , 119,   2, 121, Multispecies
+03/05/2016, 03/05/2016, 001, 20, Hudson              ,006, 3L            ,   1,   0, 1, Station 27 (BIO)
+11/05/2016, 11/05/2016, 001, 60, Celtic Explorer     ,006, 3L            ,   1,   0, 1, Station27
+11/05/2016, 24/05/2016, 014, 39, Teleost             ,159, 3LMN          ,  95,  10, 105, AZMP(001-045)+Multispecies(046-107)
+25/05/2016, 07/06/2016, 014, 39, Teleost             ,170, 3LN           ,  87,   0, 87, Multispecies
+30/05/2016, 02/06/2016, 004, 61, Vladykov            ,056, 3Ps           ,  11,   0, 11, Snow Crab Survey (Fortune Bay)
+08/06/2016, 16/06/2016, 009, 39, Teleost             ,171, 3LO           ,  58,   1, 59, Multispecies
+12/06/2016, 18/06/2016, 007, 61, Vladykov            ,057, 3L            ,  11,   0, 11, Snow Crab Survey
+17/06/2016, 21/06/2016, 005, 39, Teleost             ,172, 3L            ,  10,   0, 10, S27/Bull Arm
+06/07/2016, 16/07/2016, 011, 61, Vladykov            ,058, 3KL           ,   9,   0, 9, Cod Tagging
+08/07/2016, 28/07/2016, 021, 39, Teleost             ,160, 2J3KLM        ,  82,  55, 137, AZMP
+22/07/2016, 31/08/2016, 041, 62, Aqviq               ,111, 0A0B2G        , 334,   0, 334, Arctic
+27/07/2016, 14/08/2016, 019, 61, Vladykov            ,060, 3L            ,  42,   0, 42, Snow Crab
+15/08/2016, 15/08/2016, 001, 03, Shamook             ,619, 3L            ,   4,   0, 4, Station27 only
+17/08/2016, 21/08/2016, 005, 61, Vladykov            ,061, 3L            ,  26,   0, 26, Trinity Bay Ecosystem
+21/08/2016, 25/08/2016, 005, 12, Needler             ,464, 3L4Vs         ,   9,   0, 9, Acoustic Calibrations
+29/08/2016, 09/09/2016, 012, 12, Needler             ,465, 3LPs          ,  35,   0, 35, Multispecies
+03/09/2016, 09/09/2016, 007, 61, Vladykov            ,062, 3K            ,  21,   0, 21, Snow Crab Trap Survey
+15/09/2016, 27/09/2016, 013, 12, Needler             ,466, 3LO           ,  54,   4, 58, Multispecies
+18/09/2016, 23/09/2016, 006, 61, Vladykov            ,063, 3L            ,  23,   0, 23, Trinity Bay Ecosystem
+26/09/2016, 03/10/2016, 008, 61, Vladykov            ,064, 3L            ,  22,   0, 22, Snow Crab
+27/09/2016, 09/10/2016, 013, 12, Needler             ,467, 3LNO          ,  54,   0, 54, Multispecies
+04/10/2016, 10/10/2016, 007, 39, Teleost             ,162, 2H3L          ,  17,   0, 17, NL Fall Survey
+14/10/2016, 23/10/2016, 010, 39, Teleost             ,163, 2H            ,  72,   0, 72, NL fall Survey
+21/10/2016, 25/10/2016, 005, 61, Vladykov            ,066, 3L            ,   5,   0, 5, Codd Tagging
+24/10/2016, 06/11/2016, 014, 39, Teleost             ,164, 2J3L          ,  49,   1, 50, NL Fall Survey
+28/10/2016, 08/11/2016, 012, 12, Needler             ,469, 3LNO          ,  54,   0, 54, NL Fall Survey
+09/11/2016, 22/11/2016, 014, 12, Needler             ,470, 3L            ,  87,   0, 87, NL Fall Survey
+10/11/2016, 22/11/2016, 013, 39, Teleost             ,165, 2J3KL         ,  66,   0, 66, NL Fall Survey
+13/11/2016, 22/11/2016, 010, 20, Hudson              ,116, 3LNOPs        ,  36,  24, 60, Winter AZMP
+14/11/2016, 14/11/2016, 001, 12, Needler             ,468, 3L            ,   1,   0, 1, Station 27 only
+23/11/2016, 06/12/2016, 014, 12, Needler             ,471, 3L            ,  43,   0, 43, NL Fall Survey
+24/11/2016, 06/12/2016, 013, 39, Teleost             ,166, 2J3KL         ,  79,   0, 79, NL Fall Survey
+07/12/2016, 15/12/2016, 009, 39, Teleost             ,167, 3KL           ,  42,   3, 45, NL Fall Survey
+08/12/2016, 15/12/2016, 008, 12, Needler             ,472, 3KL           ,  41,   1, 42, NL Fall Survey

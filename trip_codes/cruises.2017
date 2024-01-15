@@ -1,0 +1,40 @@
+				Cruises 2017
+      DATE
+  Start	    End   S#	   Ships  Name		Cruise	ZONE	CTDs	XBTs	Totals
+07/03/2017, 25/03/2017, 019, 59, Pearkes             ,003, 3KL           ,   0,  17, 17, Seal Survey
+06/04/2017, 10/04/2017, 005, 12, Needler             ,476, 3Ps           ,  31,   1, 32, NL Spring Survey
+06/04/2017, 22/04/2017, 017, 39, Teleost             ,173, 3KLMNOPs      ,  99,  30, 129, Spring AZMP
+13/04/2017, 24/04/2017, 012, 12, Needler             ,477, 3Ps           ,  42,   0, 42, NL Spring Survey
+26/04/2017, 01/05/2017, 006, 39, Teleost             ,174, 3L            ,   7,   0, 7, calibration
+27/04/2017, 08/05/2017, 012, 12, Needler             ,478, 3Ps           , 112,   0, 112, NL Spring Survey
+02/05/2017, 23/05/2017, 022, 39, Teleost             ,175, 3KL           ,  42,  25, 67, Capelin Survey
+12/05/2017, 22/05/2017, 011, 12, Needler             ,479, 3LO           ,  54,   0, 54, NL Spring Survey
+24/05/2017, 03/06/2017, 011, 12, Needler             ,480, 3LNO          ,  73,   0, 73, NL Spring Survey
+08/06/2017, 17/06/2017, 010, 12, Needler             ,481, 3LNO          ,  55,   0, 55, NL Spring Survey
+09/06/2017, 13/06/2017, 005, 61, Vladykov            ,073, 3L            ,   5,   0, 5, Snow Crab Survey
+19/06/2017, 22/06/2017, 004, 12, Needler             ,482, 3L            ,   1,   0, 1, calibration (missing 4 V CTDs?)
+22/06/2017, 23/06/2017, 002, 39, Teleost             ,184, 4Vn3PoPsL     ,   1,   8, 9, Stn27 Buoy Recovery
+08/07/2017, 28/07/2017, 021, 39, Teleost             ,176, 2GHJ3KLM      , 104,  70, 174, Summer AZMP
+10/07/2017, 16/07/2017, 007, 61, Vladykov            ,075, 3KL           ,   3,   0, 3, Cod Tagging
+24/07/2017, 25/07/2017, 002, 61, Vladykov            ,076, 3L            ,   4,   0, 4, Snow Crab - Bonavista Bay
+02/08/2017, 09/08/2017, 008, 61, Vladykov            ,077, 3L            ,  18,   0, 18, Snow Crab - Trinty Bay
+15/08/2017, 26/08/2017, 012, 15, Specials            ,008, 2G            ,  13,   0, 13, D. Cote
+17/08/2017, 18/08/2017, 002, 61, Vladykov            ,078, 3L            ,  17,   0, 17, Trinity Bay Ecosystem
+28/08/2017, 04/09/2017, 021, 61, Vladykov            ,079, 3K            ,  17,   0, 17, Snow Crab- White Bay
+03/09/2017, 09/09/2017, 007, 12, Needler             ,483, 3LPs          ,  34,   1, 35, Shellfish Survey
+13/09/2017, 25/09/2017, 013, 12, Needler             ,484, 3LNO          ,  91,   0, 91, NL Fall Survey 
+14/09/2017, 17/09/2017, 004, 61, Vladykov            ,080, 3K            ,  14,   0, 14, Snow Crab
+22/09/2017, 28/09/2017, 007, 61, Vladykov            ,081, 3L            ,  13,   0, 13, Trinity Bay Ecosystem
+04/10/2017, 09/10/2017, 006, 61, Vladykov            ,082, 3L            ,  13,   0, 13, Snow Crab 
+11/10/2017, 11/10/2017, 001, 12, Needler             ,485, 3L            ,   1,   0, 1, Station 27 only (?)
+11/10/2017, 23/10/2017, 013, 39, Teleost             ,179, 2HJ3L         ,  67,   0, 67, Fall survey
+12/10/2017, 15/10/2017, 004, 12, Needler             ,486, 3LNO          ,  67,   4, 70, NL Fall Survey 
+25/10/2017, 06/11/2017, 013, 12, Needler             ,487, 3L            , 101,   0, 101, NL Fall Survey
+27/10/2017, 05/11/2017, 010, 39, Teleost             ,180, 2HJ3L         ,  46,   0, 46, NL Fall Survey
+08/11/2017, 20/11/2017, 013, 39, Teleost             ,181, 2J3K          ,  70,   0, 70, NL Fall Survey
+08/11/2017, 21/11/2017, 014, 12, Needler             ,488, 3KL           ,  69,   9, 78, NL Fall Survey
+11/11/2017, 16/12/2017, 036, 15, Fugro Discovery     ,009, 2J3KLM        ,  56,  49, 105, Fall AZMP (nov11-20,dec9-16)
+22/11/2017, 04/12/2017, 013, 12, Needler             ,489, 3KL           ,  51,   2, 53, NL Fall Survey
+23/11/2017, 03/12/2017, 011, 39, Teleost             ,182, 2J3K          ,  64,   0, 64, NL Fall Survey
+06/12/2017, 14/12/2017, 009, 12, Needler             ,491, 3KL           ,  43,   2, 45, NL Fall Survey 
+07/12/2017, 16/12/2017, 010, 39, Teleost             ,183, 3KL           ,  43,   1, 44, NL Fall Survey
